@@ -1,0 +1,21 @@
+<xml>
+  <node>RootI
+    <node>Level1
+      <node>Level2
+        <leaf>I12Text1</leaf>
+      </node>
+      <leaf>I1Text1</leaf>
+      <leaf>I1Text2</leaf>
+    </node>
+  </node>
+  <node>RootII</node>
+  <node>RootIII</node>
+  <node>RootIV
+    <node>Level1</node>
+    <node>Level1</node>
+    <leaf>I1Text1</leaf>
+    <leaf>I1Text2</leaf>
+  </node>
+</xml>
+
+
