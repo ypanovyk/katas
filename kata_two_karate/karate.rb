@@ -30,7 +30,7 @@ end
 
 #p chop(7,array)
 
-def chop(integer,array)
+def kchop(integer,array)
   #if array is empty return -1
   if array.length==0
    return -1
